@@ -1,2 +1,3 @@
 # project-1
-finance tracker with sqllite
+automatic file orginizer
+
